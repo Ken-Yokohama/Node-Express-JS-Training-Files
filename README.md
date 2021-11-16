@@ -6,3 +6,4 @@ Among these Files Include:
 - Calculator
 - Weather Project
 - my-express-server
+- MailChimp-API-Practice
