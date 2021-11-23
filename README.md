@@ -16,10 +16,15 @@ This Project was made in partial fullfilment of the Complete Web Development Boo
 - MailChimp-API-Practice
 # EJS/todoist-v1
 
-This is a web appication that uses EJS for templatin as well as partials for components. The frontend gets and displays the current date & month at the top. Input feilds allows users to input any tasks they have for the given day. Users can also crossout any tasks that have been completed.
+This is a web appication that uses EJS for templating as well as partials for components. The frontend gets and displays the current date & month at the top. Input feilds allows users to input any tasks they have for the given day. Users can also crossout any tasks that have been completed.
 
 To build this project, users must first in stall any npm dependencies. Since we are using EJS to template our file, any additional pages can use header.ejs and footer.ejs found in the views folder to style the page quickly.
 
 This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
 
-- ejs-challenge-blog
+# ejs-challenge-blog
+This is a node web application that uses Node & Express on the backend and EJS for the front end templating. This application is a personal blog which has a functional Navbar on the top and a sticky footer on the bottom. 
+
+The content of the page will be generated using EJS partials for each blogpost. For Added cleanlisness, each post is truncated by 100 characters with an acnhor tag appented to the end which references the full blog post. Each blog post can be read independently on a single page.
+
+To be able to make a new blog post, users can follow the /compose route which would redirect them to a page that allows users to publish new blog posts. 
