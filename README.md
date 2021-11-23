@@ -22,4 +22,4 @@ To build this project, users must first in stall any npm dependencies. Since we 
 
 This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
 
--ejs-challenge-blog
+- ejs-challenge-blog
