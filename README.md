@@ -28,3 +28,7 @@ This is a node web application that uses Node & Express on the backend and EJS f
 The content of the page will be generated using EJS partials for each blogpost. For Added cleanlisness, each post is truncated by 100 characters with an acnhor tag appented to the end which references the full blog post. Each blog post can be read independently on a single page.
 
 To be able to make a new blog post, users can follow the /compose route which would redirect them to a page that allows users to publish new blog posts. 
+
+To build this project, users must first in stall any npm dependencies. Since we are using EJS to template our file, any additional pages can use header.ejs and footer.ejs found in the views folder to style the page quickly.
+
+This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
