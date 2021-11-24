@@ -25,17 +25,17 @@ This is a web application that uses the MailChimp API to subscribe users to my p
 
 to start this project you must download the repository, install any dependencies then start app.js
 
-'''
+```bash
 npm install
 
 node app.js
-'''
+```
 
 To build this project, you must first register an account with the [MailChimp API](https://mailchimp.com/ "MailChimp API Home Page") and then place your API Key in the .env file. 
 
-'''bash
+```bash
 npm install dotenv
-'''
+```
 
 To further guide with implementation, please refer to the the [MailChimp Developer Docs](https://mailchimp.com/developer/ "MailChimp Developer Docs").
 
