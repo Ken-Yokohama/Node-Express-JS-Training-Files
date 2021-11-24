@@ -15,9 +15,13 @@ This Project was made in partial fullfilment of the Complete Web Development Boo
 - my-express-server
 - MailChimp-API-Practice
 
-# Newsletter SignUp
+# Newsletter-SignUp
 
+This is a web application that uses the MailChimp API to subscribe users to my personal mailing list. The landing page requires users for their name as well as their email which will then be saved to the MailChimp database. In the Mailchimp database, we are able to organize each user and filter which content we want to send for individual users. Additionally, using the MailChimp api allows us to syncs all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.
 
+To build this project, you must first register an ccount with the Open Weather Map API at https://mailchimp.com/ and then place your API Key in the .env file. To further guide with implementation, please refer to the the MailChimp Developer Docs here https://mailchimp.com/developer/ .
+
+This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
 
 # EJS/todoist-v1
 
