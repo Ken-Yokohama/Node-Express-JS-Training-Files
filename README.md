@@ -16,15 +16,15 @@ This Project was made in partial fullfilment of the Complete Web Development Boo
 
 - my-express-server
 - MailChimp-API-Practice
-
+___
 # Newsletter-SignUp
 
 This is a web application that uses the MailChimp API to subscribe users to my personal mailing list. The landing page requires users for their name as well as their email which will then be saved to the MailChimp database. In the Mailchimp database, we are able to organize each user and filter which content we want to send for individual users. Additionally, using the MailChimp api allows us to syncs all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.
 
 To build this project, you must first register an ccount with the Open Weather Map API at https://mailchimp.com/ and then place your API Key in the .env file. To further guide with implementation, please refer to the the MailChimp Developer Docs here https://mailchimp.com/developer/ .
 
-This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
-
+>This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
+___
 # EJS/todoist-v1
 
 This is a web appication that uses EJS for templating as well as partials for components. The frontend gets and displays the current date & month at the top. Input feilds allows users to input any tasks they have for the given day. Users can also crossout any tasks that have been completed.
@@ -32,7 +32,7 @@ This is a web appication that uses EJS for templating as well as partials for co
 To build this project, users must first in stall any npm dependencies. Since we are using EJS to template our file, any additional pages can use header.ejs and footer.ejs found in the views folder to style the page quickly.
 
 This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
-
+___
 # ejs-challenge-blog
 This is a node web application that uses Node & Express on the backend and EJS for the front end templating. This application is a personal blog which has a functional Navbar on the top and a sticky footer on the bottom. 
 
