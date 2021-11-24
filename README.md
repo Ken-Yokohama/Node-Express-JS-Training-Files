@@ -10,7 +10,7 @@ ___
 
 This is a web application that gets your location data and passes that data to an express server. On the server, the server queries the Open Weather Map API database to access the weather data for each location. To use this project, Input the location you wish to search for the current weather on the input feild and click search to deiplay the current weather as well as humidity for the current location.
 
-To build this project, you must first register an ccount with the Open Weather Map API at https://openweathermap.org/ and then place your API Key in the .env file.
+To build this project, you must first register an account with the Open Weather Map API at https://openweathermap.org/ and then place your API Key in the .env file.
 
 This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
 
@@ -21,7 +21,7 @@ ___
 
 This is a web application that uses the MailChimp API to subscribe users to my personal mailing list. The landing page requires users for their name as well as their email which will then be saved to the MailChimp database. In the Mailchimp database, we are able to organize each user and filter which content we want to send for individual users. Additionally, using the MailChimp api allows us to syncs all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.
 
-To build this project, you must first register an ccount with the Open Weather Map API at https://mailchimp.com/ and then place your API Key in the .env file. To further guide with implementation, please refer to the the [MailChimp Developer Docs](https://mailchimp.com/developer/).
+To build this project, you must first register an account with the [MailChimp API](https://mailchimp.com/ "MailChimp API Home Page") and then place your API Key in the .env file. To further guide with implementation, please refer to the the [MailChimp Developer Docs](https://mailchimp.com/developer/ "MailChimp Developer Docs").
 
 >This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
 ___
