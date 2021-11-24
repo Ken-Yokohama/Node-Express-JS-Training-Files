@@ -21,9 +21,16 @@ ___
 
 This is a web application that uses the MailChimp API to subscribe users to my personal mailing list. The landing page requires users for their name as well as their email which will then be saved to the MailChimp database. In the Mailchimp database, we are able to organize each user and filter which content we want to send for individual users. Additionally, using the MailChimp api allows us to syncs all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.
 
-To build this project, you must first register an account with the [MailChimp API](https://mailchimp.com/ "MailChimp API Home Page") and then place your API Key in the .env file. To further guide with implementation, please refer to the the [MailChimp Developer Docs](https://mailchimp.com/developer/ "MailChimp Developer Docs").
+To build this project, you must first register an account with the [MailChimp API](https://mailchimp.com/ "MailChimp API Home Page") and then place your API Key in the .env file. 
+
+ex:
+'API_KEY=ondovo3n3ing2oif8g23i423rnidfndfisndf'
+
+To further guide with implementation, please refer to the the [MailChimp Developer Docs](https://mailchimp.com/developer/ "MailChimp Developer Docs").
 
 >This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
+
+![Open Weather API](https://blog.weatherapi.com/wp-content/uploads/2020/02/cropped-Asset-62-1.png)
 ___
 # EJS/todoist-v1
 
