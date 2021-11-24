@@ -33,10 +33,6 @@ node app.js
 
 To build this project, you must first register an account with the [MailChimp API](https://mailchimp.com/ "MailChimp API Home Page") and then place your API Key in the .env file. 
 
-```bash
-npm install dotenv
-```
-
 To further guide with implementation, please refer to the the [MailChimp Developer Docs](https://mailchimp.com/developer/ "MailChimp Developer Docs").
 
 >This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
