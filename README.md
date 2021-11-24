@@ -14,6 +14,11 @@ This Project was made in partial fullfilment of the Complete Web Development Boo
 
 - my-express-server
 - MailChimp-API-Practice
+
+# Newsletter SignUp
+
+
+
 # EJS/todoist-v1
 
 This is a web appication that uses EJS for templating as well as partials for components. The frontend gets and displays the current date & month at the top. Input feilds allows users to input any tasks they have for the given day. Users can also crossout any tasks that have been completed.
