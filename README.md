@@ -2,11 +2,11 @@
 Here are the training Files I've used to test, explore and create projects using Express &amp; NodeJS
 
 ### Technical Documentation
-- Intro-to-node
-- Calculator
+- [Intro-to-node](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#intro-to-node)
+- [Calculator](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#calculator)
 - [Weather Project](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#weather-project)
-- My-Express-Server
-- MailChimp-API-Practice
+- [My-Express-Server](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#my-express-server)
+- [MailChimp-API-Practice](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#mailchimp-api-practice)
 - [Newsletter-SignUp](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#newsletter-signup)
 - [EJS/todoist-v1](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#ejstodoist-v1)
 - [Ejs-Challenge-Blog](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#ejs-challenge-blog)
@@ -21,7 +21,7 @@ ___
 
 This is a web application that gets your location data and passes that data to an express server. On the server, the server queries the Open Weather Map API database to access the weather data for each location. To use this project, Input the location you wish to search for the current weather on the input feild and click search to deiplay the current weather as well as humidity for the current location.
 
-To build this project, you must first register an account with the Open Weather Map API at https://openweathermap.org/ and then place your API Key in the .env file.
+To build this project, you must first register an account with the [Open Weather Map API](https://openweathermap.org/) and then place your API Key in the .env file.
 
 This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
 
@@ -56,6 +56,8 @@ To build this project, you must first register an account with the [MailChimp AP
 To further guide with implementation, please refer to the the [MailChimp Developer Docs](https://mailchimp.com/developer/ "MailChimp Developer Docs").
 
 >This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
+
+![Mail Chimp API](https://images.ctfassets.net/3g7s03pwyjhz/2IzXOYWCE0GGMMMcGaQGUa/417075681409c9f43a359a999498c71b/bigcartel_headerx2.png?q=75&w=998&fm=webp)
 ___
 # EJS/todoist-v1
 
@@ -75,3 +77,7 @@ To be able to make a new blog post, users can follow the /compose route which wo
 To build this project, users must first in stall any npm dependencies. Since we are using EJS to template our file, any additional pages can use header.ejs and footer.ejs found in the views folder to style the page quickly.
 
 This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
+
+![EJS](https://lh3.googleusercontent.com/proxy/mIrftnH1J2fPD1TfEujJS7g4xlgSegmNXZ7BZBakk35cNskhMR05Q-paE8bVKAZzCLZYxbRrgidvQc-ewNhSatifB56Jmjy6Vm8-evWHCnMdfvLeT41nOcE0sjWthlv1ET4LHWg
+)
+___
