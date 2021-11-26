@@ -1,10 +1,21 @@
 # Node-Express-JS-Training-Files
 Here are the training Files I've used to test, explore and create projects using Express &amp; NodeJS
 
-Among these Files Include:
-- intro-to-node
+### Technical Documentation
+- Intro-to-node
 - Calculator
+- [Weather Project](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#weather-project)
+- My-Express-Server
+- MailChimp-API-Practice
+- [Newsletter-SignUp](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#newsletter-signup)
+- [EJS/todoist-v1](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#ejstodoist-v1)
+- [Ejs-Challenge-Blog](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#ejs-challenge-blog)
 
+
+___
+# Intro-To-Node
+___
+# Calculator
 ___
 # Weather Project
 
@@ -16,12 +27,21 @@ This Project was made in partial fullfilment of the Complete Web Development Boo
 
 ![Open Weather API](https://blog.weatherapi.com/wp-content/uploads/2020/02/cropped-Asset-62-1.png)
 
-- my-express-server
-- MailChimp-API-Practice
+___
+# My-Express-Server
+___
+# MailChimp-API-Practice
 ___
 # Newsletter-SignUp
 
 This is a web application that uses the MailChimp API to subscribe users to my personal mailing list. The landing page requires users for their name as well as their email which will then be saved to the MailChimp database. In the Mailchimp database, we are able to organize each user and filter which content we want to send for individual users. Additionally, using the MailChimp api allows us to syncs all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.
+
+| NPM Packages Used | Description                                      |
+| ----------------- | ------------------------------------------------ |
+| body-parser       | used to collect input from submitted forms       |
+| dotevn            | used to hide our API KEYS                        |
+| express           | used to handle the server                        |
+| request           | used to handle failure/sucess and write jsonData |
 
 to start this project you must download the repository, install any dependencies then start app.js
 
