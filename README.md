@@ -78,6 +78,4 @@ To build this project, users must first in stall any npm dependencies. Since we 
 
 This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
 
-![EJS](https://lh3.googleusercontent.com/proxy/mIrftnH1J2fPD1TfEujJS7g4xlgSegmNXZ7BZBakk35cNskhMR05Q-paE8bVKAZzCLZYxbRrgidvQc-ewNhSatifB56Jmjy6Vm8-evWHCnMdfvLeT41nOcE0sjWthlv1ET4LHWg
-)
 ___
