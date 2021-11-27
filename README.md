@@ -14,6 +14,8 @@ Here are the training Files I've used to test, explore and create projects using
 
 ___
 # Intro-To-Node
+
+This is my first Hello World web application using nodejs This application was made to understand the basics of node, express, node version control and npm packages.
 ___
 # Calculator
 ___
