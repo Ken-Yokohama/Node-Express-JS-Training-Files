@@ -18,6 +18,22 @@ ___
 This is my first Hello World web application using nodejs This application was made to understand the basics of node, express, node version control and npm packages.
 ___
 # Calculator
+
+Calculator is a Web App that uses Node.js to allow to submit the inputs of the page to calculate the result of the inputs given.
+
+### Please use the following for the operators:
+
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+
+### Technologies Used
+
+- HTML
+- NODE.js
+- Express.js
+- npm body-parser
 ___
 # Weather Project
 
