@@ -47,6 +47,14 @@ This Project was made in partial fullfilment of the Complete Web Development Boo
 
 ___
 # My-Express-Server
+
+This is a simple web application that uses expressJS to create a basic server. In this server, we tackle basic routing. 
+
+### Routes
+- "/" Home Page
+- "/contact" Contacts Page
+- "/about" About Me Page
+- "/hobbies" Hobbies Page
 ___
 # MailChimp-API-Practice
 ___
