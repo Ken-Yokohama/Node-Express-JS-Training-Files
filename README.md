@@ -10,6 +10,7 @@ Here are the training Files I've used to test, explore and create projects using
 - [Newsletter-SignUp](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#newsletter-signup)
 - [EJS/todoist-v1](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#ejstodoist-v1)
 - [Ejs-Challenge-Blog](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#ejs-challenge-blog)
+- [Blog-Website-with-Database]()
 
 
 ___
@@ -103,5 +104,37 @@ To be able to make a new blog post, users can follow the /compose route which wo
 To build this project, users must first in stall any npm dependencies. Since we are using EJS to template our file, any additional pages can use header.ejs and footer.ejs found in the views folder to style the page quickly.
 
 This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
+___
+# Blog-Website-with-Database
+This is version 2 of the previous EJS challenge blog that uses Node & Express on the backend and EJS for the front end templating with the addition of using MongoDB as the local database. This application is a personal blog and uses MongoDB to pull each blog post from a database and render them.
 
+The content of the page will be generated using EJS partials for each blogpost. For Added cleanlisness, each post is truncated by 100 characters with an acnhor tag appented to the end which references the full blog post. Each blog post can be read independently on a single page.
+
+To be able to make a new blog post, users can follow the /compose route which would redirect them to a page that allows users to publish new blog posts. 
+
+To build this project, users must first in stall any npm dependencies. Since we are using EJS to template our file, any additional pages can use header.ejs and footer.ejs found in the views folder to style the page quickly.
+
+This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
+
+| NPM Packages Used | Description                                      |
+| ----------------- | ------------------------------------------------ |
+| body-parser       | used to collect input from submitted forms       |
+| ejs               | used to handle templating                        |
+| express           | used to handle the server                        |
+| mongoose          | ODM used to handle MongoDB                       |
+| lodash            | used to format the routing for each blog post    |
+
+### Connecting your MongoDB Database
+
+To be able to properly use this web application, please install the latest version of [MongoDb](https://www.mongodb.com/).
+
+In our app.js install Mongoose using npm or yarn:
+```
+npm install mongoose
+```
+
+Using Mongoose, connect your database using:
+```
+mongoose.connect("mongodb://localhost:27017/blogDB");
+```
 ___
