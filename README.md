@@ -10,7 +10,7 @@ Here are the training Files I've used to test, explore and create projects using
 - [Newsletter-SignUp](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#newsletter-signup)
 - [EJS/todoist-v1](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#ejstodoist-v1)
 - [Ejs-Challenge-Blog](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#ejs-challenge-blog)
-- [Blog-Website-with-Database]()
+- [Blog-Website-with-Database](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#connecting-your-mongodb-database)
 
 
 ___
