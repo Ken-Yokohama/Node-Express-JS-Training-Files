@@ -114,7 +114,7 @@ To be able to make a new blog post, users can follow the /compose route which wo
 
 To build this project, users must first in stall any npm dependencies. Since we are using EJS to template our file, any additional pages can use header.ejs and footer.ejs found in the views folder to style the page quickly.
 
-This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
+> This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
 
 | NPM Packages Used | Description                                      |
 | ----------------- | ------------------------------------------------ |
