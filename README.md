@@ -106,6 +106,11 @@ To build this project, users must first in stall any npm dependencies. Since we 
 
 This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
 ___
+
+# FruitsProject
+
+This is a node application
+
 # Blog-Website-with-Database
 This is version 2 of the previous EJS challenge blog that uses Node & Express on the backend and EJS for the front end templating with the addition of using MongoDB as the local database. This application is a personal blog and uses MongoDB to pull each blog post from a database and render them.
 
