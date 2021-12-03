@@ -10,7 +10,7 @@ Here are the training Files I've used to test, explore and create projects using
 - [Newsletter-SignUp](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#newsletter-signup)
 - [EJS/todoist-v1](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#ejstodoist-v1)
 - [Ejs-Challenge-Blog](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#ejs-challenge-blog)
-- FruitsProject
+- [FruitsProject](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files/blob/master/README.md#fruitsproject)
 - [Blog-Website-with-Database](https://github.com/Ken-Yokohama/Node-Express-JS-Training-Files#blog-website-with-database)
 
 
@@ -109,7 +109,7 @@ ___
 
 # FruitsProject
 
-This is a node application
+This is a node application that uses express in the backend, mongoDB for a local database and mongoose for its ODM. This application was used to perform crud operations into a FRUITS collection and display each operation headlessly in the console.
 
 # Blog-Website-with-Database
 This is version 2 of the previous EJS challenge blog that uses Node & Express on the backend and EJS for the front end templating with the addition of using MongoDB as the local database. This application is a personal blog and uses MongoDB to pull each blog post from a database and render them.
