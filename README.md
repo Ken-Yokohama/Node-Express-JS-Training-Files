@@ -43,7 +43,7 @@ This is a web application that gets your location data and passes that data to a
 
 To build this project, you must first register an account with the [Open Weather Map API](https://openweathermap.org/) and then place your API Key in the .env file.
 
-This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
+> This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
 
 ![Open Weather API](https://blog.weatherapi.com/wp-content/uploads/2020/02/cropped-Asset-62-1.png)
 
