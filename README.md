@@ -93,7 +93,7 @@ This is a web appication that uses EJS for templating as well as partials for co
 
 To build this project, users must first in stall any npm dependencies. Since we are using EJS to template our file, any additional pages can use header.ejs and footer.ejs found in the views folder to style the page quickly.
 
-This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
+> This Project was made in partial fullfilment of the Complete Web Development Bootcamp by Angela Yu from Udemy.com
 ___
 # ejs-challenge-blog
 This is a node web application that uses Node & Express on the backend and EJS for the front end templating. This application is a personal blog which has a functional Navbar on the top and a sticky footer on the bottom. 
