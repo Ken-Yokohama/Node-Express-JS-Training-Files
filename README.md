@@ -120,7 +120,7 @@ In our app.js install Mongoose using npm or yarn:
 npm install mongoose
 ```
 
-Using Mongoose, connect your database using:
+Using Mongoose, connect to fruitsDB using:
 ```
 mongoose.connect("mongodb://localhost:27017/fruitsDB");
 ```
