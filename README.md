@@ -111,6 +111,21 @@ ___
 
 This is a node application that uses express in the backend, mongoDB for a local database and mongoose for its ODM. This application was used to perform crud operations into a FRUITS collection and display each operation headlessly in the console.
 
+### Connecting your fruitsDB Database
+
+To be able to properly use this web application, please install the latest version of [MongoDb](https://www.mongodb.com/).
+
+In our app.js install Mongoose using npm or yarn:
+```
+npm install mongoose
+```
+
+Using Mongoose, connect your database using:
+```
+mongoose.connect("mongodb://localhost:27017/fruitsDB");
+```
+___
+
 # Blog-Website-with-Database
 This is version 2 of the previous EJS challenge blog that uses Node & Express on the backend and EJS for the front end templating with the addition of using MongoDB as the local database. This application is a personal blog and uses MongoDB to pull each blog post from a database and render them.
 
