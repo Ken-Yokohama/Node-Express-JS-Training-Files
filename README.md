@@ -124,6 +124,23 @@ Using Mongoose, connect to fruitsDB using:
 ```
 mongoose.connect("mongodb://localhost:27017/fruitsDB");
 ```
+
+### Declaring the Schema
+Before we can perform any CRUD operation, we must first declare the schema that will be used to structure the format of data. For our fruits database, we will be taking in 3 paramets of each item. The name of fruit, the rating of the fruit & our review of the fruit which will be of a string data type. To create this object we can use this code:
+
+```
+const fruitSchema = new mongoose.Schema({
+  name: {
+    type: String,
+  },
+  rating: {
+    type: Number,
+    min: 1,
+    max: 10
+  },
+  review: String
+});
+```
 ___
 
 # Blog-Website-with-Database
