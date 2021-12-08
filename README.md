@@ -141,6 +141,14 @@ const fruitSchema = new mongoose.Schema({
   review: String
 });
 ```
+Optionally, we can add a "required" parameter for each data input for data that needs to be completed. For example, if the user forgets to fill in the name field for a fruit input. We can stop the process and throw an error "Please check your data entry, no name specified" using this code:
+
+```
+name: {
+    type: String,
+    required: [true, "Please check your data entry, no name specified"]
+  }
+```
 ___
 
 # Blog-Website-with-Database
