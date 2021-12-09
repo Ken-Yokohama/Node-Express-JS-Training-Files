@@ -150,8 +150,6 @@ name: {
   }
 ```
 ### Performing CRUD Operations:
-
-- Create
 For this example lets save a new fruit "Mango" in our database with a score of 9 and a review of "Awesome Fruit"
 ```
 const mango = new Fruit({
