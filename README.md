@@ -158,6 +158,10 @@ const mango = new Fruit({
   review: "Awesome Fruit"
 })
 ```
+After declaring our new fruit, its easy to assume that running the app.js application will immidiately save it to the databse. But we must remember that declaring an object is totally different from storing it in our fruitsDB. So to save the object, we must also simply add:
+```
+mango.save();
+```
 ___
 
 # Blog-Website-with-Database
