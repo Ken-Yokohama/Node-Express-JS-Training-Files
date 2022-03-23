@@ -60,7 +60,7 @@ ___
 
 # MailChimp-API-Newsletter-SignUp
 
-This is a web application that uses the MailChimp API to subscribe users to my personal mailing list. The landing page requires users for their name as well as their email which will then be saved to the MailChimp database. In the Mailchimp database, we are able to organize each user and filter which content we want to send for individual users. Additionally, using the MailChimp api allows us to syncs all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.
+This is a web application that uses the MailChimp API to subscribe users to my personal mailing list. The landing page requires users for their name as well as their email which will then be saved to the MailChimp database. In the Mailchimp database, we are able to organize each user and filter which content we want to send for individual users. Additionally, using the MailChimp api allows us to sync all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.
 
 | NPM Packages Used | Description                                      |
 | ----------------- | ------------------------------------------------ |
